@@ -1,0 +1,388 @@
+[
+{"Nom":"Patient","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"Evaluators","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"ACSO - Self Assessment Of Social Cognitive Impairments","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"ADI-R - Autism Diagnostic Interview-Revised","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"AHC - Auto-�valuation des Habilet�s Conversationnelles","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"AIHQ - Ambiguous Intentions Hostility Questionnaire","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"AIMS - Abnormal Involuntary Movement Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Echelle d'akathesie (Barnes akathisia rating scale)","Description":"Balcon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"ALDA Scale - Response to lithium in the maintenance treatment of bipolar disorder","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"AQ - Autism Quotient","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Arbre G�n�alogique","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"ASQ - Affective Style Questionnaire","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"Asrs Adult Adhd Self Report Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"TriangAnim - Animated Triangle Test","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"BABS - Brown Assessment Believe Scale","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"BDI 13 - Beck Depression Inventory Short Form 13 items","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"BEM 144 - Signoret Battery for Mnesic Efficiency","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"BIS 10 - Barratt Impulsiveness Scale 10","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"BIS-BAS - Behavioural Inhibition System and the Behavioural Approach System","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"BPRS24 - Brief Psychiatric Rating Scale 24 Items","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"BREF ou FAB - Frontal Assessment Battery","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Brief COPE - Coping Orientations to the Problems Experienced","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CAARMS4 - Comprehensive Assessment Of At Risk Mental States - First 4 items","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CAARMS_tot - Comprehensive Assessment Of At Risk Mental States","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"CAARMS_tot + SPI-A - Comprehensive Assessment Of At Risk Mental States","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CAM - Confusion Assessment Method","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CAPE42 - Community Assessment Of Psychic Experiences","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"CBCL 1�-5 - Child Behavior Checklist in preschool children","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CBCL 6-18 - Child Behavior Checklist for Ages 6-18","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CDS - Cambridge Depersonalisation Scale","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CDSS - Calgary Depression Scale For Schizophrenia","Description":"Balcon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"CFQ - Cognitive Failures Questionnaire","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"CGI - Clinical Global Impression","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CLG - Check-list de d�pistage des troubles d'origine g�n�tique","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"COMMISSIONS - Test Des Commissions","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"D�pistage Psy - TOCs (OCI) + AQ10 + ASRSs + SCOFF","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CONSO-ADDICT - Substance Consumption And Problematic Use Of Video Games (Fagerstrom + AUDIT-C + CAST)","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CONSO-SOINS - Status And Record Of Care Consumption","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CORSI - Corsi Block-tapping Test","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"AnhP-Chp- Chapman Physical Anhedonia Scale Revised 61it","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CTQ - Childhood Trauma Questionnaire","Description":"Salon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"CUAMI-SF - Columbia University Autobiographical Memory Interview - Short Form","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"CVLT - California Verbal Learning Test","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"CHECKLIST - Checklist DSM5 SCZ","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"D2 - Concentration Endurance Test D2","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"D2r - Concentration Endurance Test Results Software","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"DERM-PATT - Dermatoglyphics Patterns","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"DissoExp - Dissociative Experiences Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"DEV Mini - Developpement Fiche Minimale","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"DHS - Daily Hassles Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"DIGS light 3.0 - Diagnostic Interview for Genetics Studies light 3.0","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"Digs 30 Summary Diagnosticinterview For Genetics S","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"DIGS Relev� - Relev� DIGS Mini","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"D&P - The Doors and People Test","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"DIGS SZTYPIE - Schizotypal Personality Traits","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"DTD - Developmental History And Autistic Traits","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"DTD par - Developmental History And Autistic Traits Parents","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"EAS or ASSS - Assessment Of Social Self-sufficiency","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"ENSS - electronic neurological soft signs","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"EQ - Empathy Quotient","Description":"Salon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Echelle de qualite de vie Eq5d5l (Euro quality of life 5 dimensions)","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"EQPR-A - Eysenck Personality Questionnaire Revised-Abbreviated","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"�v�nements Ind�sirables","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"mRS - Modified Rankin scale","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"Examen Clinique","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"FFQ14 - Food Frequency Questionnaire 14 Items","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Fin d'�tude","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"FIGS - Family Interview For Genetic Studies","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"FL-CONT - Fluences Autobiographique Contextuelles","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"FL-VERB - Verbal Fluency Test Type","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"FL-VERB - Verbal Fluency Test Type B","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"fNART33 - National Adult Rating Scale version Fran�aise 33 items","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"fNART40 - National Adult Rating Scale version Fran�aise 40 items - Score","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"GAF - Global Assessment Of Functioning","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"GFS-SR -- Global Functioning Scale Social and Role","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"GF Role - Global Functioning Social Scale","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"GND - Finger Localization Test","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"GSE - Global Self-Evaluation Mood (GSE-Md) et Global Self-Evaluation Memory (GSE-My)","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"HAYLING-B - Hayling Sentence Completion Test Part B","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"HDRS-21 - Hamilton Depression Rating Scale 21 Items","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"Historique Medical","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"Historique Therapeutique","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Historique Psychiatrique","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"IAT - Implicit Association Test","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"IRM - Magnetic Resonance Imaging","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"LM-OCS - Lewis-Murray Obstetric Complications Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"LPS - Lay's Procrastination Scale","Description":"Salon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Evenements menacants (LTE)","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"Madrs Montgomery Asberg Depression Rating Scale","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"Relev�Mini","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"MASC - Movie For The Assesment Of Social Cognition","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"MEMIV_log - Modules M�moire Logique I Et II","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"MINI V.5 Mini International Neuropsychiatric Interview","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"MINI V.6 Mini International Neuropsychiatric Interview","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"MMSE - Mini Mental State","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"MoCA - Montreal Cognitive Assessment","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"MEMSpa - M�moire Spatiale (en Ordre direct et en Ordre Inverse)","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Mt86 Montrealtouloselanguageassessmentbattery","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"NES - Neurological Evaluation Scale","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"NSSE Neurological Soft Signs Examination","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"PANSS - Positive And Negative Syndrome Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"PAS - Premorbid Adjustment Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"PDIQ - Perception Of Depression Questionnaire","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"PDQ-4+ - Personality Diagnostic Questionnaire 4th Edition Plus","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"PERSO - Perception Sociale Batterie Clacos","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"PID-5-BF - Personality Inventory for DSM-5 Brief Form","Description":"Salon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"PRMQ - Prospective and Retrospective Memory Questionnaire","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"PROFINTEG - Evaluation �cologique des activit�s de la vie quotidienne","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"PSP - Personal And Social Performance Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"PSQI - Pittsburgh Sleep Quality Index","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"QAC2 - Questionnaire Alimentaire","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"QIDS SR 16 - 16-item Questionnaire Court Sur Les Sympto?mes De La De?pression (Auto-e?valuation)","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"REP_ANTIPSY - Response to antipsychotic treatment - May and Dencker Scale","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"REP_LITHIUM - Response to lithium","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"RLRI-16 - Epreuve de m�moire adapt�e de Grober et Buschke","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test (toCheck)","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"RUCHE - La ruche : test de m�moire visuelle","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"SANS - Scale For The Assessment Of Negative Symptoms","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"SAPS - Scale For Assessment Of Positive Symptoms","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"SCS or ERCS - Revised Self-Consciousness Scale","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"SERS - Self Esteem Rating Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"Enquete de sante SF12 (12item short form health survey)","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"SNS - Self-evaluation of Negative Symptoms","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"Socio-demographic Data","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"SOFAS - Social and Occupational Functioning Assessment Scale","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"SOS - Symptom Onset Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"SPI-A 9it- Schizophrenia Proneness Instrument, adult-version","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"SPQ - Schizotypal Personality Questionnaire 74 Items","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"S-QoL - Health-related quality of life (HRQL) among people with schizophrenia (S-QoL)","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"SQ-R - Systemizing Quotient Revised","Description":"Balcon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"SRIS - Self-reflection and Insight scale","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"SSMQ - Squire Subjective Memory Questionnaire","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"SSS V - Sensation Seeking Scale (Zuckerman) form V (SSS V - 40items)","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"SSTICS - Subjective Scale To Investigate Cognition in Schizophrenia","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"STAI-A - Spielberger State-Trait Anxiety Inventory - A","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"STAI-B - Spielberger State-Trait Anxiety Inventory - B","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"STROOP - Strooptest","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"TAEP - Test de l'atelier et �valuation des praxies","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"TAP Alert - Test Of Attentional Performance - Alertness","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"TAP WorkMem - Test Of Attentional Performance - Working Memory","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"TAP Flex - Test Of Attentional Performance Flexibili","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"TAP Incomp - Test Of Attentional Performance Incompa","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"TAS20 - Toronto Alexithymia Scale 20item","Description":"Salon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"TBIND - T�che de Binding","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"TEMPAU - Test of Episodic Memory for the Autobiographical Past","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TEMPAU short - Test Of Episodic Memory For The Autobiographical Past Short","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"Temps A - Temperament Evaluation of Memphis, Paris and San Diego-Autoquestionnaire","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"TESI subj - Traumatic Events Screening Inventory - Cotation Subjective","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"TESI - Traumatic Events Screening Inventory","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"THASE & RUSH - Thase And Rush Criteria","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"TLC - Thought Language And Communication Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"TLC2 - Test Lillois De Calcul","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TLFB - Timeline Follow Back","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"TMT - Trail Making Test A & B","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"TOH - Tower of Hanoi","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TREF - Test De Reconnaissance Des Motions Faciales","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TSCS Future - Tennessee Self Concept Scale - Future","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"TSCS Parents Past - Tennessee Self Concept Scale - Parents Past","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TSCS Parents Present - Tennessee Self Concept Scale - Parents Present","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"TSCS Past - Tennessee Self Concept Scale - Past","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"TSCS Present - Tennessee Self Concept Scale - Present","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"Traitement Actuel","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"VOSP - Visual Object And Space Perception Battery","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"VPA_WMS3 - Verbal Paired Associates test from the Wechsler Memory Scale III","Description":"Balcon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"WAIS III - Wechsler Adult Intelligence Scale","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"WAIS III PROVERB - Test Of Proverbs From WAIS III","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"WAIS III SIMIL - Test Of Similarities From WAIS III","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"WAIS IV - Wechsler Adult Intelligence Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"WCST - Wisconsin Card Sorting Test","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"Waldrop Minor Physical Anomalies","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"WURS - Wender Utah Rating Scale","Description":"Salon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"YBOCS - Yale-Brown Obsessive Compulsive Scale","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"YMRS - Young Mania Rating Scale","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"ZOO - Test du plan du zoo (batterie BADS)","Description":"Balcon","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"Suivi de la consommation des soins","Description":"Salon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"SUS - System Usability Scale","Description":"Terrasse","Age":"Adulte","R�alisateur":"Psychologue"}
+,
+{"Nom":"ATTRAKDIFF 2","Description":"Balcon","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"Biologie","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"CAARMS - Comprehensive Assessment Of At Risk Men","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Diagnostic Psychiatrique Vie Entiere New !","Description":"Terrasse","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"Mise Jour Du Traitement Actuel","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Oci Obsessive Compulsive Inventory","Description":"Balcon","Age":"Adulte","R�alisateur":"Patient"}
+,
+{"Nom":"Questionnaire de consommation","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Scoff Screening Tool For Eating Disorders","Description":"Salon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Identification du sujet","Description":"Terrasse","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"IRM - Inclusion","Description":"Balcon","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"IRM - Rel","Description":"Terrasse","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Inclusion","Description":"Balcon","Age":"Adulte","R�alisateur":"Clinicien"}
+,
+{"Nom":"Randomisation","Description":"Terrasse","Age":"Enfant","R�alisateur":"Psychologue"}
+,
+{"Nom":"Examens compl�mentaires","Description":"Salon","Age":"Enfant","R�alisateur":"Clinicien"}
+,
+{"Nom":"Realisation de visite","Description":"Terrasse","Age":"Enfant","R�alisateur":"Patient"}
+,
+{"Nom":"Historique Developpement","Description":"Salon","Age":"Enfant","R�alisateur":"Patient"}
+
+]
