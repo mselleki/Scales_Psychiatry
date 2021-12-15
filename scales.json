@@ -1,2 +1,1353 @@
-{{"Nom":"Patient","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Identification du sujet","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Evaluators","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"ACSO - Self Assessment Of Social Cognitive Impairments","Description":"Descrption de l'échelle Self Assessment of Social etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"ADI-R - Autism Diagnostic Interview-Revised","Description":"Description de ADI-R","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"AHC - Auto-évaluation des Habiletés Conversationnelles","Description":"Description de AHC","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"AIMS - Abnormal Involuntary Movement Scale","Description":"Description de AIMS","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"AIHQ - Ambiguous Intentions Hostility Questionnaire","Description":"Description de AIHQ","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Akathisia Rating Scale","Description":"Description de Akathisia rating scale","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"ALDA Scale - Response to lithium in the maintenance treatment of bipolar disorder","Description":"Description de ALDA","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"AnhP-Chp- Chapman Physical Anhedonia Scale Revised 61it","Description":"Description de AnhP","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"Arbre Généalogique","Description":"Description de Arbre Généalogique","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"ASQ - Affective Style Questionnaire","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"ASRS - Adult Adhd Self Report Scale","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"ATTRAKDIFF 2","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"AQ - Autism Quotient","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"BABS - Brown Assessment Believe Scale","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"BDI 13 - Beck Depression Inventory Short Form 13 items","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"BEM 144 - Signoret Battery for Mnesic Efficiency","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"Biologie","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"BIS 10 - Barratt Impulsiveness Scale 10","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"BIS-BAS - Behavioural Inhibition System and the Behavioural Approach System","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"BPRS24 - Brief Psychiatric Rating Scale 24 Items","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"BREF ou FAB - Frontal Assessment Battery","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Brief COPE - Coping Orientations to the Problems Experienced","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"CAARMS 28 - Comprehensive Assessment Of At Risk Men","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"CAARMS 4 - Comprehensive Assessment Of At Risk Mental States - First 4 items","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"CAARMS 28_tot - Comprehensive Assessment Of At Risk Mental States","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"CAARMS 28_tot + SPI-A - Comprehensive Assessment Of At Risk Mental States","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CAM - Confusion Assessment Method","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CAPE42 - Community Assessment Of Psychic Experiences","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"CBCL 1½-5 - Child Behavior Checklist in preschool children","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CBCL 6-18 - Child Behavior Checklist for Ages 6-18","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"CDS - Cambridge Depersonalisation Scale","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"CDSS - Calgary Depression Scale For Schizophrenia","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"CFQ - Cognitive Failures Questionnaire","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"CGI - Clinical Global Impression","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CHECKLIST - Checklist DSM5 SCZ","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CLG - Check-list de dépistage des troubles d'origine génétique","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"COMMISSIONS - Test Des Commissions","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"CONSO-ADDICT - Substance Consumption And Problematic Use Of Video Games (Fagerstrom + AUDIT-C + CAST)","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"CONSO-SOINS - Status And Record Of Care Consumption","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"CORSI - Corsi Block-tapping Test","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"CTQ - Childhood Trauma Questionnaire","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"CUAMI-SF - Columbia University Autobiographical Memory Interview - Short Form","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"CVLT - California Verbal Learning Test","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"D2 - Concentration Endurance Test D2","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"D2r - Concentration Endurance Test Results Software","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Dépistage Psy - TOCs (OCI) + AQ10 + ASRSs + SCOFF","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"DERM-PATT - Dermatoglyphics Patterns","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"DEV Mini - Developpement Fiche Minimale","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Diagnostic Psychiatrique Vie Entiere New !","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"DissoExp - Dissociative Experiences Scale","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"DHS - Daily Hassles Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"DIGS light 3.0 - Diagnostic Interview for Genetics Studies light 3.0","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Digs 30 Summary Diagnosticinterview For Genetics S","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"DIGS Relevé - Relevé DIGS Mini","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"D&P - The Doors and People Test","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"DIGS SZTYPIE - Schizotypal Personality Traits","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Donnees sociodemographiques","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"DTD - Developmental History And Autistic Traits","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"DTD par - Developmental History And Autistic Traits Parents","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"EAS or ASSS - Assessment Of Social Self-sufficiency","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"Echelle de qualite de vie Eq5d5l (Euro quality of life 5 dimensions)","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"Enquete de sante SF12 (12item short form health survey)","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"ENSS - electronic neurological soft signs","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"EQ - Empathy Quotient","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"EQPR-A - Eysenck Personality Questionnaire Revised-Abbreviated","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"Evenements Menacants (LTE)","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Evenements Indesirables","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Examen Clinique","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"Examens Complementaires","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"FFQ14 - Food Frequency Questionnaire 14 Items","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"FIGS - Family Interview For Genetic Studies","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Fin d'étude","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"FL-CONT - Fluences Autobiographique Contextuelles","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"FL-VERB - Verbal Fluency Test","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"FL-VERB - Verbal Fluency Test light","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"fNART33 - National Adult Rating Scale version Française 33 items","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"fNART40 - National Adult Rating Scale version Française 40 items - Score","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"GAF - Global Assessment Of Functioning","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"GFS-RS (Global Functioning Scale Social and Role)","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"GF Role - Global Functioning Social Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"GND - Finger Localization Test","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"GSE - Global Self-Evaluation Mood (GSE-Md) et Global Self-Evaluation Memory (GSE-My)","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"HAYLING-B - Hayling Sentence Completion Test Part B","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"HDRS-21 - Hamilton Depression Rating Scale 21 Items","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Historique Developpement","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"Historique Medical","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"Historique Psychiatrique","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Historique Therapeutique","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"IAT - Implicit Association Test","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"Inclusion","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"IRM - Magnetic Resonance Imaging","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"IRM - Inclusion","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"IRM - Rel","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"LM-OCS - Lewis-Murray Obstetric Complications Scale","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"LPS - Lay's Procrastination Scale","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"MADRS - Montgomery Asberg Depression Rating Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"MASC - Movie For The Assesment Of Social Cognition","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"MEMIV_log - Modules Mémoire Logique I Et II","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"MEMSpa - Mémoire Spatiale (en Ordre direct et en Ordre Inverse)","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"MINI V.5 Mini International Neuropsychiatric Interview","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"MINI V.6 Mini International Neuropsychiatric Interview","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Mise Jour Du Traitement Actuel","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"MoCA - Montreal Cognitive Assessment","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"MMSE - Mini Mental State","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"mRS - Modified Rankin scale","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Mt86 Montrealtouloselanguageassessmentbattery","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"NES - Neurological Evaluation Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"NSSE Neurological Soft Signs Examination","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"OCI - Obsessive Compulsive Inventory","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"PANSS - Positive And Negative Syndrome Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"PAS - Premorbid Adjustment Scale","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"PDIQ - Perception Of Depression Questionnaire","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"PDQ-4+ - Personality Diagnostic Questionnaire 4th Edition Plus","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"PERSO - Perception Sociale Batterie Clacos","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"PID-5-BF - Personality Inventory for DSM-5 Brief Form","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"PRMQ - Prospective and Retrospective Memory Questionnaire","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"PROFINTEG - Evaluation écologique des activités de la vie quotidienne","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"PSP - Personal And Social Performance Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"PSQI - Pittsburgh Sleep Quality Index","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"QAC2 - Questionnaire Alimentaire","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"QIDS SR 16 - 16-item Questionnaire Court Sur Les Sympto^mes De La De´pression (Auto-e´valuation)","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Questionnaire de consommation","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Randomisation","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Realisation de visite","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"RelevéMini","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"REP_ANTIPSY - Response to antipsychotic treatment - May and Dencker Scale","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"REP_LITHIUM - Response to lithium","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"RLRI-16 - Epreuve de mémoire adaptée de Grober et Buschke","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test (toCheck)","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"RUCHE - La ruche : test de mémoire visuelle","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"SANS - Scale For The Assessment Of Negative Symptoms","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"SAPS - Scale For Assessment Of Positive Symptoms","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Scoff Screening Tool For Eating Disorders","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"SCS or ERCS - Revised Self-Consciousness Scale","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"SERS - Self Esteem Rating Scale","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"SNS - Self-evaluation of Negative Symptoms","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"SOFAS - Social and Occupational Functioning Assessment Scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"SOS - Symptom Onset Scale","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"SPI-A 9it- Schizophrenia Proneness Instrument, adult-version","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"SPQ - Schizotypal Personality Questionnaire 74 Items","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"S-QoL - Health-related quality of life (HRQL) among people with schizophrenia (S-QoL)","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"SQ-R - Systemizing Quotient Revised","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"SRIS - Self-reflection and Insight scale","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"SSMQ - Squire Subjective Memory Questionnaire","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"SSS V - Sensation Seeking Scale (Zuckerman) form V (SSS V - 40items)","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"SSTICS - Subjective Scale To Investigate Cognition in Schizophrenia","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"STAI-A - Spielberger State-Trait Anxiety Inventory - A","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"STAI-B - Spielberger State-Trait Anxiety Inventory - B","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"STROOP - Strooptest","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"Suivi de la consommation des soins","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"SUS - System Usability Scale","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"TAEP - Test de l'atelier et évaluation des praxies","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"TAP Alert - Test Of Attentional Performance - Alertness","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"TAP Flex - Test Of Attentional Performance Flexibili","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"TAP Incomp - Test Of Attentional Performance Incompa","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"TAP WorkMem - Test Of Attentional Performance - Working Memory","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"TAS20 - Toronto Alexithymia Scale 20item","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"TBIND - Tâche de Binding","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"TEMPAU - Test of Episodic Memory for the Autobiographical Past","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"TEMPAU short - Test Of Episodic Memory For The Autobiographical Past Short","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"Temps A - Temperament Evaluation of Memphis, Paris and San Diego-Autoquestionnaire","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"TESI subj - Traumatic Events Screening Inventory - Cotation Subjective","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"TESI - Traumatic Events Screening Inventory","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"THASE & RUSH - Thase And Rush Criteria","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Autoquestionnaire"},{"Nom":"TLC - Thought Language And Communication Scale","Description":"Description de l'évaluateur etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"TLC2 - Test Lillois De Calcul","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"TLFB - Timeline Follow Back","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"TMT - Trail Making Test A & B","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"TOH - Tower of Hanoi","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"Traitement Actuel","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"TREF - Test De Reconnaissance Des Motions Faciales","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"TriangAnim - Animated Triangle Test","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"TSCS Future - Tennessee Self Concept Scale - Future","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"TSCS Parents Past - Tennessee Self Concept Scale - Parents Past","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"TSCS Parents Present - Tennessee Self Concept Scale - Parents Present","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"TSCS Past - Tennessee Self Concept Scale - Past","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"TSCS Present - Tennessee Self Concept Scale - Present","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"VOSP - Visual Object And Space Perception Battery","Description":"Description de l'identification du sujet à remplir","Age":"Enfant","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"VPA_WMS3 - Verbal Paired Associates test from the Wechsler Memory Scale III","Description":"Description de l'évaluateur etc etc","Age":"Adulte","Réalisateur":"Patient","Type":"Hétéro-questionnaire"},{"Nom":"WAIS III - Wechsler Adult Intelligence Scale","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"WAIS III PROVERB - Test Of Proverbs From WAIS III","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"WAIS III SIMIL - Test Of Similarities From WAIS III","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"},{"Nom":"WAIS IV - Wechsler Adult Intelligence Scale","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"Waldrop Minor Physical Anomalies","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"WCST - Wisconsin Card Sorting Test","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"WURS - Wender Utah Rating Scale","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Autoquestionnaire"},{"Nom":"YBOCS - Yale-Brown Obsessive Compulsive Scale","Description":"Description de l'échelle patient etc etc","Age":"Enfant","Réalisateur":"Patient","Type":"Autoquestionnaire"},{"Nom":"YMRS - Young Mania Rating Scale","Description":"Description de l'identification du sujet à remplir","Age":"Adulte","Réalisateur":"Clinicien","Type":"Hétéro-questionnaire"},{"Nom":"ZOO - Test du plan du zoo (batterie BADS)","Description":"Description de l'échelle patient etc etc","Age":"Adulte","Réalisateur":"Psychologue","Type":"Hétéro-questionnaire"}}
-
+[
+   {
+      "Nom":"Patient",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Identification du sujet",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Evaluators",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ACSO - Self Assessment Of Social Cognitive Impairments",
+      "Description":"Descrption de l'échelle Self Assessment of Social etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"ADI-R - Autism Diagnostic Interview-Revised",
+      "Description":"Description de ADI-R",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"AHC - Auto-évaluation des Habiletés Conversationnelles",
+      "Description":"Description de AHC",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"AIMS - Abnormal Involuntary Movement Scale",
+      "Description":"Description de AIMS",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"AIHQ - Ambiguous Intentions Hostility Questionnaire",
+      "Description":"Description de AIHQ",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Akathisia Rating Scale",
+      "Description":"Description de Akathisia rating scale",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"ALDA Scale - Response to lithium in the maintenance treatment of bipolar disorder",
+      "Description":"Description de ALDA",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"AnhP-Chp- Chapman Physical Anhedonia Scale Revised 61it",
+      "Description":"Description de AnhP",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Arbre Généalogique",
+      "Description":"Description de Arbre Généalogique",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ASQ - Affective Style Questionnaire",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ASRS - Adult Adhd Self Report Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ATTRAKDIFF 2",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"AQ - Autism Quotient",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"BABS - Brown Assessment Believe Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"BDI 13 - Beck Depression Inventory Short Form 13 items",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"BEM 144 - Signoret Battery for Mnesic Efficiency",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Biologie",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"BIS 10 - Barratt Impulsiveness Scale 10",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"BIS-BAS - Behavioural Inhibition System and the Behavioural Approach System",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"BPRS24 - Brief Psychiatric Rating Scale 24 Items",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"BREF ou FAB - Frontal Assessment Battery",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Brief COPE - Coping Orientations to the Problems Experienced",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CAARMS 28 - Comprehensive Assessment Of At Risk Men",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CAARMS 4 - Comprehensive Assessment Of At Risk Mental States - First 4 items",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CAARMS 28_tot - Comprehensive Assessment Of At Risk Mental States",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CAARMS 28_tot + SPI-A - Comprehensive Assessment Of At Risk Mental States",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CAM - Confusion Assessment Method",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CAPE42 - Community Assessment Of Psychic Experiences",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CBCL 1½-5 - Child Behavior Checklist in preschool children",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CBCL 6-18 - Child Behavior Checklist for Ages 6-18",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CDS - Cambridge Depersonalisation Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CDSS - Calgary Depression Scale For Schizophrenia",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CFQ - Cognitive Failures Questionnaire",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CGI - Clinical Global Impression",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CHECKLIST - Checklist DSM5 SCZ",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CLG - Check-list de dépistage des troubles d'origine génétique",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"COMMISSIONS - Test Des Commissions",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CONSO-ADDICT - Substance Consumption And Problematic Use Of Video Games (Fagerstrom + AUDIT-C + CAST)",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CONSO-SOINS - Status And Record Of Care Consumption",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CORSI - Corsi Block-tapping Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CTQ - Childhood Trauma Questionnaire",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"CUAMI-SF - Columbia University Autobiographical Memory Interview - Short Form",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"CVLT - California Verbal Learning Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"D2 - Concentration Endurance Test D2",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"D2r - Concentration Endurance Test Results Software",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Dépistage Psy - TOCs (OCI) + AQ10 + ASRSs + SCOFF",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"DERM-PATT - Dermatoglyphics Patterns",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DEV Mini - Developpement Fiche Minimale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Diagnostic Psychiatrique Vie Entiere New !",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"DissoExp - Dissociative Experiences Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DHS - Daily Hassles Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"DIGS light 3.0 - Diagnostic Interview for Genetics Studies light 3.0",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Digs 30 Summary Diagnosticinterview For Genetics S",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DIGS Relevé - Relevé DIGS Mini",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"D&P - The Doors and People Test",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DIGS SZTYPIE - Schizotypal Personality Traits",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Donnees sociodemographiques",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DTD - Developmental History And Autistic Traits",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"DTD par - Developmental History And Autistic Traits Parents",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"EAS or ASSS - Assessment Of Social Self-sufficiency",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Echelle de qualite de vie Eq5d5l (Euro quality of life 5 dimensions)",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Enquete de sante SF12 (12item short form health survey)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"ENSS - electronic neurological soft signs",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"EQ - Empathy Quotient",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"EQPR-A - Eysenck Personality Questionnaire Revised-Abbreviated",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Evenements Menacants (LTE)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Evenements Indesirables",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Examen Clinique",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Examens Complementaires",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"FFQ14 - Food Frequency Questionnaire 14 Items",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"FIGS - Family Interview For Genetic Studies",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Fin d'étude",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"FL-CONT - Fluences Autobiographique Contextuelles",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"FL-VERB - Verbal Fluency Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"FL-VERB - Verbal Fluency Test light",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"fNART33 - National Adult Rating Scale version Française 33 items",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"fNART40 - National Adult Rating Scale version Française 40 items - Score",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"GAF - Global Assessment Of Functioning",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"GFS-RS (Global Functioning Scale Social and Role)",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"GF Role - Global Functioning Social Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"GND - Finger Localization Test",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"GSE - Global Self-Evaluation Mood (GSE-Md) et Global Self-Evaluation Memory (GSE-My)",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"HAYLING-B - Hayling Sentence Completion Test Part B",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"HDRS-21 - Hamilton Depression Rating Scale 21 Items",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Historique Developpement",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Historique Medical",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Historique Psychiatrique",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Historique Therapeutique",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"IAT - Implicit Association Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Inclusion",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"IRM - Magnetic Resonance Imaging",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"IRM - Inclusion",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"IRM - Rel",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"LM-OCS - Lewis-Murray Obstetric Complications Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"LPS - Lay's Procrastination Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"MADRS - Montgomery Asberg Depression Rating Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"MASC - Movie For The Assesment Of Social Cognition",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"MEMIV_log - Modules Mémoire Logique I Et II",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"MEMSpa - Mémoire Spatiale (en Ordre direct et en Ordre Inverse)",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"MINI V.5 Mini International Neuropsychiatric Interview",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"MINI V.6 Mini International Neuropsychiatric Interview",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Mise Jour Du Traitement Actuel",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"MoCA - Montreal Cognitive Assessment",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"MMSE - Mini Mental State",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"mRS - Modified Rankin scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Mt86 Montrealtouloselanguageassessmentbattery",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"NES - Neurological Evaluation Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"NSSE Neurological Soft Signs Examination",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"OCI - Obsessive Compulsive Inventory",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"PANSS - Positive And Negative Syndrome Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"PAS - Premorbid Adjustment Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"PDIQ - Perception Of Depression Questionnaire",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"PDQ-4+ - Personality Diagnostic Questionnaire 4th Edition Plus",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"PERSO - Perception Sociale Batterie Clacos",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"PID-5-BF - Personality Inventory for DSM-5 Brief Form",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"PRMQ - Prospective and Retrospective Memory Questionnaire",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"PROFINTEG - Evaluation écologique des activités de la vie quotidienne",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"PSP - Personal And Social Performance Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"PSQI - Pittsburgh Sleep Quality Index",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"QAC2 - Questionnaire Alimentaire",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"QIDS SR 16 - 16-item Questionnaire Court Sur Les Sympto^mes De La De´pression (Auto-e´valuation)",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Questionnaire de consommation",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Randomisation",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Realisation de visite",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"RelevéMini",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"REP_ANTIPSY - Response to antipsychotic treatment - May and Dencker Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"REP_LITHIUM - Response to lithium",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"RLRI-16 - Epreuve de mémoire adaptée de Grober et Buschke",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"ROCFT - The Rey-Osterrieth Complex Figure Test (toCheck)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"RUCHE - La ruche : test de mémoire visuelle",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SANS - Scale For The Assessment Of Negative Symptoms",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SAPS - Scale For Assessment Of Positive Symptoms",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Scoff Screening Tool For Eating Disorders",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"SCS or ERCS - Revised Self-Consciousness Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SERS - Self Esteem Rating Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SNS - Self-evaluation of Negative Symptoms",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SOFAS - Social and Occupational Functioning Assessment Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"SOS - Symptom Onset Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SPI-A 9it- Schizophrenia Proneness Instrument, adult-version",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SPQ - Schizotypal Personality Questionnaire 74 Items",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"S-QoL - Health-related quality of life (HRQL) among people with schizophrenia (S-QoL)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"SQ-R - Systemizing Quotient Revised",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SRIS - Self-reflection and Insight scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SSMQ - Squire Subjective Memory Questionnaire",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"SSS V - Sensation Seeking Scale (Zuckerman) form V (SSS V - 40items)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SSTICS - Subjective Scale To Investigate Cognition in Schizophrenia",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"STAI-A - Spielberger State-Trait Anxiety Inventory - A",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"STAI-B - Spielberger State-Trait Anxiety Inventory - B",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"STROOP - Strooptest",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Suivi de la consommation des soins",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"SUS - System Usability Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TAEP - Test de l'atelier et évaluation des praxies",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TAP Alert - Test Of Attentional Performance - Alertness",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TAP Flex - Test Of Attentional Performance Flexibili",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TAP Incomp - Test Of Attentional Performance Incompa",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TAP WorkMem - Test Of Attentional Performance - Working Memory",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TAS20 - Toronto Alexithymia Scale 20item",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TBIND - Tâche de Binding",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TEMPAU - Test of Episodic Memory for the Autobiographical Past",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TEMPAU short - Test Of Episodic Memory For The Autobiographical Past Short",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Temps A - Temperament Evaluation of Memphis, Paris and San Diego-Autoquestionnaire",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TESI subj - Traumatic Events Screening Inventory - Cotation Subjective",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TESI - Traumatic Events Screening Inventory",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"THASE & RUSH - Thase And Rush Criteria",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TLC - Thought Language And Communication Scale",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TLC2 - Test Lillois De Calcul",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TLFB - Timeline Follow Back",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TMT - Trail Making Test A & B",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TOH - Tower of Hanoi",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"Traitement Actuel",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TREF - Test De Reconnaissance Des Motions Faciales",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TriangAnim - Animated Triangle Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TSCS Future - Tennessee Self Concept Scale - Future",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TSCS Parents Past - Tennessee Self Concept Scale - Parents Past",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"TSCS Parents Present - Tennessee Self Concept Scale - Parents Present",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TSCS Past - Tennessee Self Concept Scale - Past",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"TSCS Present - Tennessee Self Concept Scale - Present",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"VOSP - Visual Object And Space Perception Battery",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"VPA_WMS3 - Verbal Paired Associates test from the Wechsler Memory Scale III",
+      "Description":"Description de l'évaluateur etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Patient",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"WAIS III - Wechsler Adult Intelligence Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"WAIS III PROVERB - Test Of Proverbs From WAIS III",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"WAIS III SIMIL - Test Of Similarities From WAIS III",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"WAIS IV - Wechsler Adult Intelligence Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"Waldrop Minor Physical Anomalies",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"WCST - Wisconsin Card Sorting Test",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"WURS - Wender Utah Rating Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"YBOCS - Yale-Brown Obsessive Compulsive Scale",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Enfant",
+      "Réalisateur":"Patient",
+      "Type":"Autoquestionnaire"
+   },
+   {
+      "Nom":"YMRS - Young Mania Rating Scale",
+      "Description":"Description de l'identification du sujet à remplir",
+      "Age":"Adulte",
+      "Réalisateur":"Clinicien",
+      "Type":"Hétéro-questionnaire"
+   },
+   {
+      "Nom":"ZOO - Test du plan du zoo (batterie BADS)",
+      "Description":"Description de l'échelle patient etc etc",
+      "Age":"Adulte",
+      "Réalisateur":"Psychologue",
+      "Type":"Hétéro-questionnaire"
+   }
+]
