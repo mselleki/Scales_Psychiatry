@@ -1,5 +1,4 @@
-{
-    "Tableau_Web": [
+[
         {
             "Nom": "Patient",
             "Description": "Description de l'échelle patient etc etc",
@@ -1737,5 +1736,4 @@
             "Réalisateur": "Psychologue",
             "Type": "Hétéro-questionnaire"
         }
-    ]
-}
+]
