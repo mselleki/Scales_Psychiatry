@@ -34,7 +34,7 @@
   "Description": "Descrption de l'échelle Self Assessment of Social etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -44,7 +44,7 @@
   "Description": "Description de ADI-R",
   "Dimension": "Psychopathologie",
   "Pathologie": "Autisme",
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien Diagnostique"
@@ -54,7 +54,7 @@
   "Description": "Description de AHC",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -64,7 +64,7 @@
   "Description": "Description de AIMS",
   "Dimension": "Neuro",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Examen"
@@ -84,7 +84,7 @@
   "Description": "Description de Akathisia rating scale",
   "Dimension": "Neuro",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Hétéro-questionnaire"
@@ -104,7 +104,7 @@
   "Description": "Description de AnhP",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -134,7 +134,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -142,9 +142,9 @@
  {
   "Nom": "ATTRAKDIFF 2",
   "Description": "Description de l'évaluateur etc etc",
-  "Dimension": "Traitement,Reponse,EMI",
+  "Dimension": "Thérapeutique",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -170,11 +170,11 @@
   "Type": null
  },
  {
-  "Nom": "BDI 13 - Beck Depression Inventory Short Form 13 items",
+  "Nom": "BDI 13 - Beck Dépression Inventory Short Form 13 items",
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Depression",
-  "Temps": "0-10",
+  "Pathologie": "Dépression",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -224,7 +224,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité,Anxiété,Humeur",
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Hétéro-questionnaire"
@@ -234,7 +234,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Hétéro-questionnaire"
@@ -244,7 +244,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Thérapeutique",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -284,7 +284,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": null
@@ -294,7 +294,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Neuro",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -304,7 +304,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -334,17 +334,17 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
  },
  {
-  "Nom": "CDSS - Calgary Depression Scale For Schizophrenia",
+  "Nom": "CDSS - Calgary Dépression Scale For Schizophrenia",
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -364,7 +364,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -384,7 +384,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Santé-somatique",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -394,7 +394,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -404,7 +404,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": "Addiction",
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Relevé"
@@ -424,7 +424,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -434,7 +434,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Environnement",
   "Pathologie": "PTSD",
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Enfant",
   "Realisateur": null,
   "Type": null
@@ -454,7 +454,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -464,7 +464,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -484,7 +484,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -494,7 +494,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Santé-somatique",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -512,9 +512,9 @@
  {
   "Nom": "Diagnostic Psychiatrique Vie Entiere New !",
   "Description": "Description de l'identification du sujet à remplir",
-  "Dimension": "Histoire",
+  "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -524,7 +524,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": "Personnalité",
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -554,7 +554,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien Diagnostique"
@@ -564,7 +564,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien Diagnostique"
@@ -574,7 +574,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -584,7 +584,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Checklist"
@@ -594,7 +594,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -604,7 +604,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Autisme",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -624,7 +624,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -634,7 +634,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -644,7 +644,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Santé-somatique",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -654,7 +654,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Neuro",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -684,7 +684,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -704,7 +704,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -714,7 +714,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -734,7 +734,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Humeur,Personnalité,Addiction",
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien"
@@ -744,7 +744,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -754,7 +754,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -774,7 +774,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -784,7 +784,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -804,7 +804,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Fonctionnement",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -824,7 +824,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Fonctionnement",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -834,7 +834,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -844,7 +844,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -854,17 +854,17 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
  },
  {
-  "Nom": "HDRS-21 - Hamilton Depression Rating Scale 21 Items",
+  "Nom": "HDRS-21 - Hamilton Dépression Rating Scale 21 Items",
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Depression",
-  "Temps": "60-",
+  "Pathologie": "Dépression",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -872,9 +872,9 @@
  {
   "Nom": "Historique Developpement",
   "Description": "Description de l'échelle patient etc etc",
-  "Dimension": "Histoire",
+  "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -894,7 +894,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Questionnaire"
@@ -902,9 +902,9 @@
  {
   "Nom": "Historique Therapeutique",
   "Description": "Description de l'identification du sujet à remplir",
-  "Dimension": "Histoire,Traitement",
+  "Dimension": "Psychopathologie,Traitement",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -914,7 +914,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -924,7 +924,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -944,7 +944,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -954,7 +954,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -964,7 +964,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Environnement",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Questionnaire"
@@ -974,17 +974,17 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
  },
  {
-  "Nom": "MADRS - Montgomery Asberg Depression Rating Scale",
+  "Nom": "MADRS - Montgomery Asberg Dépression Rating Scale",
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Depression",
-  "Temps": "10-30",
+  "Pathologie": "Dépression",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Questionnaire"
@@ -994,7 +994,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -1004,7 +1004,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1014,7 +1014,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognitioin",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1034,7 +1034,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien Diagnostique"
@@ -1044,7 +1044,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Traitement",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1054,7 +1054,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -1064,7 +1064,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -1084,7 +1084,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1114,7 +1114,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Comportement",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1124,7 +1124,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -1134,17 +1134,17 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Fonctionnement",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
  },
  {
-  "Nom": "PDIQ - Perception Of Depression Questionnaire",
+  "Nom": "PDIQ - Perception Of Dépression Questionnaire",
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Depression",
-  "Temps": "10-30",
+  "Pathologie": "Dépression",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1174,7 +1174,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1184,7 +1184,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1194,7 +1194,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1204,7 +1204,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Fonctionnement",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1233,7 +1233,7 @@
   "Nom": "QIDS SR 16 - 16‐item Questionnaire Court Sur Les Symptômes De La Dépression (Auto-évaluation)",
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Depression",
+  "Pathologie": "Dépression",
   "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
@@ -1254,7 +1254,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1274,7 +1274,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1284,7 +1284,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Thérapeutique",
   "Pathologie": "Personnalité",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1294,7 +1294,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Thérapeutique",
   "Pathologie": "Humeur",
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1304,7 +1304,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -1314,7 +1314,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1324,7 +1324,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1344,7 +1344,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -1364,7 +1364,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": "TCA",
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1374,7 +1374,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1384,7 +1384,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1414,7 +1414,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "Personnalité",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Echelle"
@@ -1444,7 +1444,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": "Personnalité",
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1454,7 +1454,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1464,7 +1464,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1484,7 +1484,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1494,7 +1494,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Cognition",
   "Pathologie": "Personnalité",
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1503,8 +1503,8 @@
   "Nom": "STAI-A - Spielberger State-Trait Anxiety Inventory - A",
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Anxiete",
-  "Temps": "60-",
+  "Pathologie": "Anxiété",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1513,8 +1513,8 @@
   "Nom": "STAI-B - Spielberger State-Trait Anxiety Inventory - B",
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
-  "Pathologie": "Anxiete",
-  "Temps": "60-",
+  "Pathologie": "Anxiété",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1524,7 +1524,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": "TOC",
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1534,7 +1534,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Thérapeutique",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1544,7 +1544,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Thérapeutique",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Hétéro-questionnaire"
@@ -1554,7 +1554,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1564,7 +1564,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1574,7 +1574,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1594,7 +1594,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1624,7 +1624,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1634,7 +1634,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1644,7 +1644,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Patient",
   "Type": "Autoquestionnaire"
@@ -1664,7 +1664,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Environnement",
   "Pathologie": "PTSD",
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1674,7 +1674,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Thérapeutique",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1684,7 +1684,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1694,7 +1694,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1704,7 +1704,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Addiction",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Agenda rétrospectif"
@@ -1714,7 +1714,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Test"
@@ -1724,7 +1724,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1734,7 +1734,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1744,7 +1744,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1764,7 +1764,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1774,7 +1774,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1794,7 +1794,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1824,7 +1824,7 @@
   "Description": "Description de l'évaluateur etc etc",
   "Dimension": null,
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": null,
   "Type": null
@@ -1834,7 +1834,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1844,7 +1844,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1864,7 +1864,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "60-",
+  "Temps": "10-30",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
@@ -1884,7 +1884,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "10-30",
+  "Temps": "0-10",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Autoquestionnaire"
@@ -1904,7 +1904,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Psychopathologie",
   "Pathologie": "TOC",
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Entretien"
@@ -1914,7 +1914,7 @@
   "Description": "Description de l'identification du sujet à remplir",
   "Dimension": "Psychopathologie",
   "Pathologie": "Humeur",
-  "Temps": "10-30",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Clinicien",
   "Type": "Questionnaire"
@@ -1924,7 +1924,7 @@
   "Description": "Description de l'échelle patient etc etc",
   "Dimension": "Cognition",
   "Pathologie": null,
-  "Temps": "0-10",
+  "Temps": "60-",
   "Age": "Adulte",
   "Realisateur": "Psychologue",
   "Type": "Test"
